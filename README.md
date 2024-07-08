@@ -1,1 +1,2 @@
-# SwiftUI-MVVM-Project
+# SFGiOSInterviewProject
+Solution for interview project for iOS. 
